@@ -10,6 +10,8 @@ Hi!
 
 - Some math $e=mc^2$
 
+- math2: $$e^{i\pi}$$
+
 ================================
 
 - Does it allow html through? Here is a table:
