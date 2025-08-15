@@ -4,6 +4,10 @@ Test creating a wiki on github.
 
 - main page> wiki > create new page
 
+https://github.com/michaelbrownid/wiki-test/wiki (wiki icon at top of
+repo page) shows the added page where I added some latex math, image,
+table, ...
+
 ================================
 
 Plus test github pages (repo/settings/pages)
